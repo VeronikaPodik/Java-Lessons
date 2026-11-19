@@ -16,6 +16,7 @@ mvn clean
 
 ```shell
 mvn test
+mvn test -Dtest=<CLASS_NAME>
 ```
 
 ### reformat code
